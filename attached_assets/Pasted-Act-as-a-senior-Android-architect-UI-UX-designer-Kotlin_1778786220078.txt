@@ -1,0 +1,189 @@
+Act as a senior Android architect, UI/UX designer, Kotlin engineer, Firebase expert, and AI product developer.
+
+Build a complete production-level Android application called:
+
+“Shaale-Vikas: AI-Powered School Infrastructure & Alumni Support Platform”
+
+====================================================
+PROJECT VISION
+====================================================
+
+This application acts as a digital bridge between:
+- Rural schools
+- Headmasters
+- Alumni
+- Donors
+- Community supporters
+
+The platform helps schools publish infrastructure needs and allows alumni/community members to support development transparently.
+
+====================================================
+CORE PROBLEMS
+====================================================
+
+1. Rural schools have damaged infrastructure.
+2. Alumni want to help but lack transparency.
+3. No organized support platform exists.
+4. Schools struggle to communicate urgent needs.
+5. Donors cannot track impact properly.
+
+====================================================
+APP GOALS
+====================================================
+
+- Enable transparent school improvement
+- Create digital alumni support ecosystem
+- Track funding progress
+- Showcase impact visually
+- Build community ownership
+- Improve educational infrastructure
+
+====================================================
+TECH STACK
+====================================================
+
+Frontend:
+- Android Native
+- Kotlin
+- XML Layouts
+- Material Design 3
+
+Architecture:
+- MVVM
+- Clean Architecture
+
+Backend:
+- Firebase Firestore
+- Firebase Auth
+- Firebase Storage
+- Firebase Messaging
+
+AI:
+- Gemini API
+- AI-generated campaign descriptions
+- AI priority analysis
+
+Libraries:
+- Hilt
+- Retrofit
+- Coroutines
+- MotionLayout
+- Lottie
+
+====================================================
+MAIN MODULES
+====================================================
+
+1. Authentication
+- Alumni login
+- Headmaster login
+- Admin login
+
+2. School Needs Dashboard
+- Infrastructure needs
+- Cost estimates
+- Progress bars
+- Priority levels
+
+3. Donation/Pledge System
+- Simulated pledges
+- Item sponsorship
+- Progress tracking
+
+4. Impact Gallery
+- Before/After images
+- Repair timelines
+- Success stories
+
+5. Alumni Community Feed
+- Community updates
+- School announcements
+- Supporter recognition
+
+6. AI Recommendation Engine
+- Priority-based suggestions
+- Smart urgency detection
+- AI-generated improvement plans
+
+7. Notifications
+- Campaign updates
+- Milestone completion
+- Alumni announcements
+
+====================================================
+UI/UX REQUIREMENTS
+====================================================
+
+Create a highly emotional and inspiring UI.
+
+Design should feel:
+- Hopeful
+- Transparent
+- Community-focused
+- Premium NGO-tech style
+
+Animations:
+- Progress bar animations
+- Before/after transitions
+- Donation impact animations
+- Floating support cards
+- Success celebrations
+
+Use:
+- MotionLayout
+- Lottie animations
+- Shared transitions
+
+====================================================
+SCREENS REQUIRED
+====================================================
+
+1. Splash Screen
+2. Onboarding
+3. Login/Register
+4. School Dashboard
+5. Need Details
+6. Donation/Pledge Screen
+7. Alumni Feed
+8. Impact Gallery
+9. Analytics Dashboard
+10. Notifications
+11. Profile
+12. Admin Panel
+
+====================================================
+ANALYTICS
+====================================================
+
+Show:
+- Funds pledged
+- Projects completed
+- Active supporters
+- School improvement metrics
+
+====================================================
+AI FEATURES
+====================================================
+
+1. AI-generated need descriptions
+2. Smart urgency prioritization
+3. AI donor recommendations
+4. AI impact summaries
+
+====================================================
+GENERATE
+====================================================
+
+Generate:
+- Full Android Kotlin app
+- XML layouts
+- Firebase integration
+- Analytics dashboards
+- Motion animations
+- Admin panel
+- AI integrations
+- Material Design 3 themes
+- Realtime updates
+- Scalable architecture
+
+Build this like a startup-grade social impact platform.
