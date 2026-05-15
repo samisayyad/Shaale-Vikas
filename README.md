@@ -1,34 +1,71 @@
-Shaale-Vikas
-Replace the heading above with the project's name, and this line with one sentence describing what this app does for users.
+# Shaale-Vikas
+AI-Powered School Infrastructure & Alumni Support Platform
 
-Run & Operate
-pnpm --filter @workspace/api-server run dev — run the API server (port 5000)
-pnpm run typecheck — full typecheck across all packages
-pnpm run build — typecheck + build all packages
-pnpm --filter @workspace/api-spec run codegen — regenerate API hooks and Zod schemas from the OpenAPI spec
-pnpm --filter @workspace/db run push — push DB schema changes (dev only)
-Required env: DATABASE_URL — Postgres connection string
-Stack
-pnpm workspaces, Node.js 24, TypeScript 5.9
-API: Express 5
-DB: PostgreSQL + Drizzle ORM
-Validation: Zod (zod/v4), drizzle-zod
-API codegen: Orval (from OpenAPI spec)
-Build: esbuild (CJS bundle)
-Where things live
-Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc.
+## Overview
+Shaale-Vikas is a transparency-focused school development platform that connects rural schools, alumni, and supporters to improve educational infrastructure collaboratively.
 
-Architecture decisions
-Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets).
+---
 
-Product
-Describe the high-level user-facing capabilities of this app once they exist.
+## Features
 
-User preferences
-Populate as you build — explicit user instructions worth remembering across sessions.
+### School Features
+- Publish infrastructure needs
+- Upload repair photos
+- Track funding progress
+- Share updates
 
-Gotchas
-Populate as you build — sharp edges, "always run X before Y" rules.
+### Alumni Features
+- Browse school needs
+- Support infrastructure projects
+- View impact gallery
+- Receive progress updates
 
-Pointers
-See the pnpm-workspace skill for workspace structure, TypeScript setup, and package details
+### AI Features
+- Smart urgency analysis
+- AI-generated campaign descriptions
+- Priority recommendation system
+
+---
+
+## Tech Stack
+- Kotlin
+- Firebase
+- MVVM Architecture
+- Material Design 3
+- MotionLayout
+- Gemini API
+
+---
+
+## Modules
+- Authentication
+- School Needs Dashboard
+- Donation/Pledge System
+- Impact Gallery
+- Alumni Feed
+- Analytics Dashboard
+
+---
+
+## Installation
+1. Clone repository
+2. Open project in Android Studio
+3. Add Firebase configuration
+4. Sync Gradle
+5. Run application
+
+---
+
+## Future Enhancements
+- Real payment integration
+- NGO collaboration system
+- School performance analytics
+- Crowdfunding integration
+
+---
+
+## Impact
+- Encourages community ownership
+- Improves rural education infrastructure
+- Builds transparent support systems
+- Strengthens alumni-school relationships
